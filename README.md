@@ -34,7 +34,7 @@ the mobile menu and enlarged screenshot dialogs use JavaScript.
 
 ## Publication gate
 
-Separate website-only repository: **uhhimnate/vibewire-website**.
+Separate website-only repository: **oofitsnathaniel/vibewire-website**.
 The project owner approved initial website publication on October 24, 2026.
 GitHub Pages can serve these files from `main` / root. This approval covers the
 website only. Never upload the application workspace, previous builds, personal
