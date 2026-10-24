@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
+*.exe
+*.dll
+*.pdb
+*.zip
+*.7z
+node_modules/
